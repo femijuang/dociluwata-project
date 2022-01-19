@@ -1,0 +1,53 @@
+To Do List:
+-----------
+
+Level: Bronze
+-------------
+1.tambahkan satu buah objek html seperti conto pada layar
+  (buka linknya di browser). Jika selesai klik tombol Commit tuk ngesave
+2.tambahkan satu buah lgi, sehingga msing2 telah membuat dua objek!
+3.beri komentar sebelum objek buatan kalian, menggunakan element html ini:
+  <!--Komentar/catatan disini-->
+  conto:
+  <!--ini objek buatan gue-->
+
+
+Level: silver
+-------------
+1.Ganti warna dan bentuk dari objek html buatan kalian!
+2.upload file audio/music/effect kalian!
+  --ukuran file sound/music yg kecil ajeh (dibwah 1 MB -an)!
+  --penamaan file buat sesederhana mungkin!
+  --sesuaikan code html kalian agar mengarah ke file audio (liat conto!)
+
+
+Level: Gold
+-------------
+1.Dekor tampilan, misal dengan:
+  --layouting (style.css)
+  --grouping
+  --memposisikan objek
+  --memberi bekground disana sini
+  --menggunakan icon pada objek html kita
+  --do as u see fit !
+2.penyederhanaan struktur files
+  -buat folder "audio"
+  -lalu pindahkan (upload) smua file audio kesituh!
+  -hapus semua file audio diluar folder itu!
+
+
+Level: Platinum
+---------------
+1.Buat function kalian di file script.js
+  agar pas di klik dia aktip! (liat conto!)
+2.penyederhanaan code html, css dan js
+
+
+Level: Master
+-------------
+1.Do as U like with those files !!!
+
+
+Level: GrandMaster
+-------------
+1.I dont have idea for U !!!
